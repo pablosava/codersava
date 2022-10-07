@@ -5,6 +5,14 @@
     margin: 0%;
     box-sizing: border-box;
 }
+a {
+    color: white;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+    font-size: xx-large;
+}
 
 .home {
     display: flex;
@@ -21,16 +29,16 @@ table,
 th,
 td {
     border-collapse: collapse;
-    border: 1px solid rgb(247, 237, 234);
+    border: 1px solid (247, 237, 234);
 }
 
 .color {
-    color: rgba(41, 41, 29, 0.664);
+    color: rgb(9, 9, 201) (41, 41, 29, 0.664);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {
-    background-color: rgb(190, 174, 174);
+    background-color: rgb(129, 52, 52); (56, 56, 50) (190, 174, 174);
 }
 
 .boton {
@@ -79,14 +87,8 @@ img.logo{
     width: 100%;
 }
 
-h1 {
-    text-align: center;
-    font-size: xx-large;
-}
-a {
-    color: white;
-    padding: 20px;
-}
+
+
 
 .cardArticle{
     width: 50%;
@@ -107,4 +109,3 @@ a {
     overflow: hidden;
 
 }
-
